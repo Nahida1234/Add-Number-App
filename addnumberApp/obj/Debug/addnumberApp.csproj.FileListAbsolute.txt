@@ -1,0 +1,9 @@
+c:\users\popy\documents\visual studio 2013\Projects\addnumberApp\addnumberApp\bin\Debug\addnumberApp.exe.config
+c:\users\popy\documents\visual studio 2013\Projects\addnumberApp\addnumberApp\bin\Debug\addnumberApp.exe
+c:\users\popy\documents\visual studio 2013\Projects\addnumberApp\addnumberApp\bin\Debug\addnumberApp.pdb
+c:\users\popy\documents\visual studio 2013\Projects\addnumberApp\addnumberApp\obj\Debug\addnumberApp.csprojResolveAssemblyReference.cache
+c:\users\popy\documents\visual studio 2013\Projects\addnumberApp\addnumberApp\obj\Debug\addnumberApp.AddNumberForm.resources
+c:\users\popy\documents\visual studio 2013\Projects\addnumberApp\addnumberApp\obj\Debug\addnumberApp.Properties.Resources.resources
+c:\users\popy\documents\visual studio 2013\Projects\addnumberApp\addnumberApp\obj\Debug\addnumberApp.csproj.GenerateResource.Cache
+c:\users\popy\documents\visual studio 2013\Projects\addnumberApp\addnumberApp\obj\Debug\addnumberApp.exe
+c:\users\popy\documents\visual studio 2013\Projects\addnumberApp\addnumberApp\obj\Debug\addnumberApp.pdb
